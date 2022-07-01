@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+<h3 align="center">😎👋</h3>
+<p align="center">
+  <a href="https://devseong.tistory.com">
+  <img src="https://img.shields.io/badge/TechBlog-%EB%8E%81%EC%84%B1-green"/>
+</p>
+
+
+
 
 <!--
 **zi-seong/zi-seong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
