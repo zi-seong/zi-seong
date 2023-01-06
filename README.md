@@ -6,13 +6,8 @@
   <img src="https://img.shields.io/badge/TechBlog-%EB%8E%81%EC%84%B1-green"/>
 </p>
 
-### 👨‍💻Experience
-- Backend Developer at <a href="http://dataeum.kr/index.do" rel="nofollow">Dataeum</a> and <a href="https://foxedu.kr/" rel="nofollow">Foxedu</a>  (Full-time, June 2020 ~)
 
-### 🤸‍♂️Interest
-  - Backend/Server-side Development
-  - MSA, TDD, CI/CD
-  - Writing
+
 
 <!--
 **zi-seong/zi-seong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
