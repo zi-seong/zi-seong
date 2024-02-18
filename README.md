@@ -2,8 +2,12 @@
 
 <h3 align="center">😎👋</h3>
 <p align="center">
-  <a href="https://devseong.tistory.com">
-  <img src="https://img.shields.io/badge/TechBlog-%EB%8E%81%EC%84%B1-green"/>
+  <a href="https://devseong.blogspot.com">
+  <img src="https://img.shields.io/badge/Tech-Blog-green"/>
+</p>
+<p align="center">
+  <a href="https://velog.io/@jiseong4577/posts">
+  <img src="https://img.shields.io/badge/Study-Velog-green"/>
 </p>
 
 
