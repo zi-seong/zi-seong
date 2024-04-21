@@ -2,7 +2,7 @@
 
 <h3 align="center">😎👋</h3>
 <p align="center">
-  <a href="https://devseong.blogspot.com">
+  <a href="https://devseong.blogspot.com](https://devseong.tistory.com">
   <img src="https://img.shields.io/badge/Tech-Blog-green"/>
 </p>
 <p align="center">
